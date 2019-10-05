@@ -4,7 +4,7 @@
 
 Just add  pull requests to this repo and stand a chance to win a limited edition Hacktoberfest T-shirt.
 
-You can send PRs throughout the month of October. Don't miss out...
+You can send PRs throughout the month of October. Actually, you can always send them, but who cares about that? Don't miss out...
 
 ### How to contribute?
 
